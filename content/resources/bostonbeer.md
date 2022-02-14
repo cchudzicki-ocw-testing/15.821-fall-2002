@@ -4,7 +4,12 @@ description: Lecture notes on conducting a Zaltman Metaphor Elicitation Techniqu
   (ZMET) interview.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-821-listening-to-the-customer-fall-2002/9502fc6d74949fde6cd2cbb30b67a11f_bostonbeer.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The ZMET Interview
+type: OCWFile
 uid: 9502fc6d-7494-9fde-6cd2-cbb30b67a11f
 ---

@@ -4,7 +4,12 @@ description: Course project on how to conduct a Voice of the Customer, and how t
   incorporate the information that you collect into a professional survey.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-821-listening-to-the-customer-fall-2002/346426e053117e9fc9112e0bde4a6d9c_assignment_12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Overview of the Voice of the Customer Project
+type: OCWFile
 uid: 346426e0-5311-7e9f-c911-2e0bde4a6d9c
 ---
