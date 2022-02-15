@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Scrubbing
-type: OCWFile
 uid: 8b5953a6-19df-7b41-085b-a4994e6be1fd
 ---

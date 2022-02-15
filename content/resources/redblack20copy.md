@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The pains and pleasures of pricing
-type: OCWFile
 uid: 5cc52570-803b-6e1b-bea6-4585acdce779
 ---

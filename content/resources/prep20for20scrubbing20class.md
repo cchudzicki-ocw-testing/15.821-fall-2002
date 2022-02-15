@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Interviewing
-type: OCWFile
 uid: b6e9fb51-97bb-6876-7198-000bc35dda02
 ---

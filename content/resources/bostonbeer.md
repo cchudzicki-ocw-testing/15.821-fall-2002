@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The ZMET Interview
-type: OCWFile
 uid: 9502fc6d-7494-9fde-6cd2-cbb30b67a11f
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Ethnographic observation
-type: OCWFile
 uid: 0e5fb90b-1608-75ba-3f95-a2f7c5b3fd6f
 ---
