@@ -43,7 +43,7 @@ You can also read "Spend a Day in the Life of your Customer".
 {{< tdopen >}}
 
 
-Assignment 2 Due ({{< resource_link ba07a5c9-6b75-1f98-f72d-5f9a4b563f2b "PDF" >}})
+Assignment 2 Due ({{% resource_link ba07a5c9-6b75-1f98-f72d-5f9a4b563f2b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Final Presentations
 
 
 Final Presentations  
-Project Group Assignment: Project Report Due ({{< resource_link 346426e0-5311-7e9f-c911-2e0bde4a6d9c "PDF" >}})
+Project Group Assignment: Project Report Due ({{% resource_link 346426e0-5311-7e9f-c911-2e0bde4a6d9c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ Project Group Assignment: Project Report Due ({{< resource_link 346426e0-5311-7e
 {{< tdopen >}}
 
 
-Problem Set ({{< resource_link 5b2c2c0e-aad2-bffe-da50-ac6c3eeba342 "PDF" >}})
+Problem Set ({{% resource_link 5b2c2c0e-aad2-bffe-da50-ac6c3eeba342 "PDF" %}})
 
 
 {{< tdclose >}}
