@@ -5,6 +5,7 @@ file: /courses/15-821-listening-to-the-customer-fall-2002/8b5953a619df7b41085ba4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
